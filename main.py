@@ -4,3 +4,6 @@ def main():
 
 def s(a, b):
     print(a + b)
+
+
+print(123456)
